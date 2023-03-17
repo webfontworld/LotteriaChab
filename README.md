@@ -1,5 +1,6 @@
-# LotteriaChab
+# 롯데리아 촵땡겨체(LotteriaChab)
 
+<pre>
 @font-face {
     font-family: 'LotteriaChab';
     font-weight: normal;
@@ -11,3 +12,4 @@
          url('https://cdn.jsdelivr.net/gh/webfontworld/LotteriaChab/LotteriaChab.ttf') format("truetype");
     font-display: swap;
 } 
+</pre>
